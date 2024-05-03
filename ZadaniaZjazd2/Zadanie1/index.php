@@ -52,5 +52,6 @@
         echo "<div id='wynik'><strong>Wynik działania:</strong> $wynik</div>";
     }
     ?>
+    
 </body>
 </html>
